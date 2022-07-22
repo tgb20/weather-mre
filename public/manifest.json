@@ -1,0 +1,7 @@
+{
+  "name": "Weather MRE",
+  "author": "Jacob Bashista",
+  "license": "MIT",
+  "repositoryUrl": "https://github.com/tgb20/weather-mre",
+  "optionalPermissions": ["user-interaction"]
+}
